@@ -53,8 +53,8 @@ Follow these steps to get the application running on your local machine.
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/Microck/secplus-ai-quizzer.git
-    cd secplus-ai-quizzer
+    git clone https://github.com/Microck/securityplus-ai-quizzer.git
+    cd securityplus-ai-quizzer
     ```
 
 2. **Install Python dependencies:**
