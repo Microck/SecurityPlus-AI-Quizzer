@@ -4,13 +4,11 @@
 
 A modern, standalone desktop application designed to help you study for the **CompTIA Security+ (SY0-701)** certification exam. This tool uses the power of large language models via the OpenRouter API to generate realistic, scenario-based practice questions directly from your personal study notes.
 
----
 
 ## About The Project
 
 Studying for certifications often involves re-reading notes and trying to anticipate exam questions. This tool automates that process by acting as your personal exam author. You provide the study material as simple `.txt` files, and the application generates a custom quiz, helping you test your knowledge and application of the concepts you've learned.
 
----
 
 ## Features
 
@@ -26,7 +24,6 @@ Studying for certifications often involves re-reading notes and trying to antici
 - **Optional Cost Estimation:** Manually input your model's pricing to see an estimated cost before generating a quiz.
 - **Interactive Quiz Interface:** Answer questions and receive a detailed, scrollable results summary with your score.
 
----
 
 ## Preparing Your Study Materials
 
