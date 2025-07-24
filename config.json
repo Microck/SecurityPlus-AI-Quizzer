@@ -1,0 +1,6 @@
+{
+  "api_key": "YOUR_OPENROUTER_API_KEY_HERE",
+  "model_name": "moonshotai/kimi-k2:free",
+  "context_window": 66000,
+  "request_delay_seconds": 2
+}
