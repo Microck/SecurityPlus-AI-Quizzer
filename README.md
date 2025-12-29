@@ -1,3 +1,7 @@
+> **This project is archived and no longer maintained.** It may be outdated or incompatible with current dependencies.
+
+---
+
 # CompTIA Security+ Quiz Generator
 
 ![App Screenshot](https://github.com/user-attachments/assets/66d71ab0-d928-45ba-8d38-ae017ab1a2d2)
